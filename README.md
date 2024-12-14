@@ -20,10 +20,9 @@
 <h2> 🤳 Connect with me:</h2><b> </b>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="30px" src="https://i.imgur.com/mFZLrrp.jpeg!" />][medium]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://i.imgur.com/OKd62rC.png!" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://i.imgur.com/r6ELcnK.png!!" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://i.imgur.com/OKd62rC.pn" />][instagram]
 
-[medium]: https://medium.com/@xhavitbasha016
 [instagram]: https://www.instagram.com/xhavitt4
 [linkedin]: https://linkedin.com/in/
 
