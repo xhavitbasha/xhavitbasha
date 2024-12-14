@@ -13,7 +13,7 @@
 <h2>📝 My Blog:</h2>
 
 
-  [<img align="rightt" alt="JoshMadakor | Twitter" width="60px" src="https://i.imgur.com/mFZLrrp.jpeg!" />][medium]
+  [<img align="rightt" alt="JoshMadakor | Twitter" width="80px" src="https://i.imgur.com/mFZLrrp.jpeg!" />][medium]
 
 
 
