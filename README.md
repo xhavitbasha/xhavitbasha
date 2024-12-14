@@ -4,6 +4,7 @@
 
 - <b>Python Projects</b>
   - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
+  - [PDF Locker](https://github.com/xhavitbasha/PDF-Locker/tree/main)
 
 <h2>📄 Certifications</h2><b> </b>
 
