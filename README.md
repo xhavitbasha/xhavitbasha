@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
 - <b>Python Projects</b>
-  - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
   - [PDF Locker](https://github.com/xhavitbasha/PDF-Locker/tree/main)
+  - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
+    
 
 <h2>📄 Certifications</h2><b> </b>
 
