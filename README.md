@@ -26,6 +26,7 @@
 
 [instagram]: https://www.instagram.com/xhavitt4
 [linkedin]: https://linkedin.com/in/
+[medium]: https://medium.com/@xhavitbasha016
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
