@@ -25,7 +25,7 @@
 <h3> xhavitbasha.w@gmail.com </h3>
 
 [instagram]: https://www.instagram.com/xhavitt4
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/xhavit-basha-995137341/
 [medium]: https://medium.com/@xhavitbasha016
 
 <!--
