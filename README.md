@@ -22,7 +22,6 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://i.imgur.com/r6ELcnK.png!"/>][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://i.imgur.com/OKd62rC.png!"/>][instagram]
-[<img align="right" alt="JoshMadakor | Twitter" width="80px" src="https://i.imgur.com/mFZLrrp.jpeg!" />][medium]
 
 
 [instagram]:https://www.instagram.com/xhavitt4
