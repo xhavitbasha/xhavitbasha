@@ -20,13 +20,14 @@
 
 <h2> 🤳 Connect with me:</h2><b> </b>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://i.imgur.com/r6ELcnK.png"/>][Linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://i.imgur.com/OKd62rC.png"/>][Instagram]
-<h3> xhavitbasha.w@gmail.com </h3>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://i.imgur.com/r6ELcnK.png!"/>][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://i.imgur.com/OKd62rC.png!"/>][instagram]
+[<img align="right" alt="JoshMadakor | Twitter" width="80px" src="https://i.imgur.com/mFZLrrp.jpeg!" />][medium]
 
-[Instagram]: https://www.instagram.com/xhavitt4
-[Linkedin]: https://www.linkedin.com/in/xhavit-basha-995137341
-[medium]: https://medium.com/@xhavitbasha016
+
+[instagram]:https://www.instagram.com/xhavitt4
+[linkedin]:https://www.linkedin.com/in/xhavit-basha-995137341
+[medium]:https://medium.com/@xhavitbasha016
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
