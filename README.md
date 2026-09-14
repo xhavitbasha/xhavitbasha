@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
-- Vulnerability Assessment
+- <b>Vulnerability Assessment</b>
   - [**Nessus Windows 10 Lab**](https://github.com/Xhavit/nessus-windows10-lab)  
     *Authenticated vs. unauthenticated vulnerability scanning of a 
     deliberately weakened Windows 10 VM using Tenable Nessus. Includes 
