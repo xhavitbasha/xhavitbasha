@@ -6,7 +6,7 @@ and Python tooling. Currently documenting hands-on lab projects.
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
 - <b>Vulnerability Assessment</b>
-  - [**Nessus Windows 10 Lab**](https://github.com/Xhavit/nessus-windows10-lab)  
+  - [**Nessus Windows 11 Lab**](https://github.com/Xhavit/nessus-windows10-lab)  
     *Authenticated vs. unauthenticated vulnerability scanning of a 
     deliberately weakened Windows 10 VM using Tenable Nessus. Includes 
     full methodology, findings, and remediation.*
