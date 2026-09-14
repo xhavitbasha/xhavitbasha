@@ -7,9 +7,6 @@
   - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
     
 
-<h2>📄 Certifications</h2><b> </b>
-
-- [All Certifications](https://github.com/xhavitbasha/Certifications/tree/main)
 
 <h2>📝 My Blog:</h2>
 
