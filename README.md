@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
+- Vulnerability Assessment
+  - [**Nessus Windows 10 Lab**](https://github.com/Xhavit/nessus-windows10-lab)  
+    *Authenticated vs. unauthenticated vulnerability scanning of a 
+    deliberately weakened Windows 10 VM using Tenable Nessus. Includes 
+    full methodology, findings, and remediation.*
+
 - <b>Python Projects</b>
   - [PDF Locker](https://github.com/xhavitbasha/PDF-Locker/tree/main)
   - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
