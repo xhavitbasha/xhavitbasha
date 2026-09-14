@@ -1,4 +1,7 @@
-<h1>Hi, I'm Xhavit! 
+
+<h1> Hi, I'm Xhavit! 👋  </h1>
+Aspiring cybersecurity professional focused on vulnerability assessment 
+and Python tooling. Currently documenting hands-on lab projects.
 
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
