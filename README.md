@@ -5,16 +5,16 @@ and Python tooling. Currently documenting hands-on lab projects.
 
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
-- <b>Vulnerability Assessment</b>
-  - [**Nessus Windows 11 Lab**](https://github.com/xhavitbasha/nessus-windows11-lab)  
-    *Credentialed vs. unauthenticated vulnerability scanning of a 
-    deliberately weakened Windows 11 VM using Tenable Nessus. Headline 
-    finding: a CVSS 9.8 Critical vulnerability invisible to the 
-    unauthenticated scan.*
-
 - <b>Python Projects</b>
   - [PDF Locker](https://github.com/xhavitbasha/PDF-Locker/tree/main)
   - [Hash Cracker](https://github.com/xhavitbasha/HashCracker)
+
+<h2>⭐ Featured Project</h2>
+
+[**Nessus Windows 11 Vulnerability Assessment**](https://github.com/xhavitbasha/nessus-windows11-lab)  
+*Credentialed vs. unauthenticated scanning of a Windows 11 VM. Found a 
+CVSS 9.8 Critical vulnerability invisible to the unauthenticated scan.*  
+`Nessus` `Windows` `Vulnerability Management` `Remediation`
 
 <h2>📝 My Blog:</h2>
 
