@@ -6,7 +6,7 @@ and Python tooling. Currently documenting hands-on lab projects.
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
 - <b>Vulnerability Assessment</b>
-  - [**Nessus Windows 11 Lab**](https://github.com/Xhavit/nessus-windows11-lab)  
+  - [**Nessus Windows 11 Lab**](https://github.com/xhavitbasha/nessus-windows11-lab)  
     *Credentialed vs. unauthenticated vulnerability scanning of a 
     deliberately weakened Windows 11 VM using Tenable Nessus. Headline 
     finding: a CVSS 9.8 Critical vulnerability invisible to the 
